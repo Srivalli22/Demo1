@@ -1,0 +1,17 @@
+<SuiteDetails>
+<Testcase>
+<TestCaseID>PartnerPurchase_And_Cancel_HappyPath</TestCaseID>
+<Run>Yes</Run>
+<Browser>Chrome</Browser>
+<TestCaseTitle>PartnerPurchase_And_Cancel_HappyPath</TestCaseTitle>
+<RequirementFeature>This script verfies quote creation and cancellation process with data for the various products</RequirementFeature>
+</Testcase>
+  
+<Testcase>
+<TestCaseID>PartnerPurchase_And_Cancel_Validations</TestCaseID>
+<Run>No</Run>
+<Browser>Chrome;Firefox;IE</Browser>
+<TestCaseTitle>PartnerPurchase_And_Cancel_Validations</TestCaseTitle>
+<RequirementFeature>This script verfies quote creation and cancellation process with data for the various products along with field level validations</RequirementFeature>
+</Testcase>
+</SuiteDetails>

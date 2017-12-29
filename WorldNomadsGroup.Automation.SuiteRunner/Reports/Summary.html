@@ -1,0 +1,169 @@
+
+            <!DOCTYPE html>
+            <html>
+            <head>
+	            <link href='http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css' rel='stylesheet'>
+	            <script src='http://code.jquery.com/jquery-1.11.0.min.js' type='text/javascript'></script>
+	            <script src='http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js'></script>
+	        <style>
+	            html {
+	            overflow: -moz-scrollbars-vertical;
+	            overflow-y: scroll;
+	            }
+	            .bigger-icon {
+		            transform:scale(2.0,2.0);
+		            -ms-transform:scale(2.0,2.0); /* IE 9 */
+		            -moz-transform:scale(2.0,2.0); /* Firefox */
+		            -webkit-transform:scale(2.0,2.0); /* Safari and Chrome */
+		            -o-transform:scale(2.0,2.0); /* Opera */
+	            }
+	            .default {
+		
+		            font-family: Courier New;
+					font-size: 15px;
+	            }
+	            .Report-Chapter {
+		            padding:12px;
+		            margin-bottom: 5px;
+		            background-color: #26466D;
+		            color: #fff;
+		            font-size: 90%; font-weight:bold;
+		            border: 1px solid #03242C;
+		            border-radius: 4px;
+		            font-family: Menlo,Monaco,Consolas,'Courier New',monospace;
+		            cursor: pointer;
+	            }
+	            .Report-Step {
+		            padding:12px;
+		            margin-bottom: 5px;
+		            background-color: #ddd;
+		            color: #000;
+		            font-size: 90%; font-weight:bold;
+		            border: 1px solid #bebebe;
+		            border-radius: 4px;
+		            font-family: Menlo,Monaco,Consolas,'Courier New',monospace;
+		            cursor: pointer;
+	            }
+	            .Report-Action {
+		            padding:12px;
+		            margin-bottom: 5px;
+		            background-color: #f7f7f9;
+		            color: #000;
+		            font-size: 90%;
+		            border: 1px solid #e1e1e8;
+		            border-radius: 4px;
+		            font-family: Menlo,Monaco,Consolas,'Courier New',monospace;
+	            }
+	            .green { color:green; }
+	            .red {color: red; }
+	            .normal {color: black; }
+	            .darkbg {background-image:url('https://passportplus2btraining.freemanco.com/Content/img/freeman_header_bkg.jpg')};
+	        </style>
+
+
+            <style>
+			   #example thead th {
+				  background-color: #1B3F73;
+				  color: white;
+                  text-align:center;
+				}
+				
+			  #example tbody td:hover {
+				    cursor: pointer;
+                  	
+                }
+
+            #example tbody td {
+				     text-align:center;                  	
+                }
+			
+			  #example tbody td a{
+			        text-decoration: none;
+                    color: black;
+                   
+			    }
+	        </style>
+
+            <script type='text/javascript'>
+			    $(document).ready(function() {
+
+				    $('#example tr').click(function() {
+					    var href = $(this).find('a').attr('href');
+					    if(href) {
+						    window.open(href);
+					    }
+				    });
+			    });
+			</script>
+
+            </head>
+
+            <body>
+	        <div class='container'>
+		        <div style='padding-top: 5px; padding-bottom:5px;'>
+			        <img src='https://media.licdn.com/media/AAEAAQAAAAAAAAISAAAAJDlmOTU0MWQ5LWY1MWUtNGY5Ni1iZmJhLTU4MTM2NGQ1ZWMyMw.png' style='padding-top:20px; width:200px; height:auto;' />
+			        <div class='pull-right'><img src='http://www.cigniti.com/wp-content/uploads/logo.png'/></div>
+			
+		        </div>
+	        </div>
+
+            <div class='container default'>
+                <div class='darkbg' style='background-color:#26466D; color:#fff; min-height:100px; padding:20px; margin-bottom:20px; margin-top:10px; top:-20px;'>
+		            <div class='row'>
+		              <div class='col-md-6' >
+                            <br/>
+                            <b> Server: </b> http://partner.suresave.sit.trunk.local<br/>
+                            <b> Parallel Cases (Max): 3
+                      </div>
+		              <div class='col-md-6' > <b> Start: </b> 09-09-2017 00:18:28<br/> <b> End: </b> 09-09-2017 00:20:35<br/> <b> Duration: </b> 00:02:07.1164000<br/> <b> Duration (Cumulative): 00:02:47.7198000</b> </div>
+		            </div>
+	            </div>
+            </div>
+
+            <div class='container'>
+		         <div class='col-md-6' style='padding-left:0px;'> <table class='table table-striped table-bordered table-condensed default'> <tr> <th colspan='4' style='background-color: #1B3F73; color: white'> <center> Test Result Status </center> </th> </tr><tr> <th style='background-color: #1B3F73; color: white'> Test Results </th> <th style='background-color: #1B3F73; color: #1BDE38'> <center> Passed </center> </th> <th style='background-color: #1B3F73; color: red'> <center> Failed </center> </th> <th style='background-color: #1B3F73; color: white; font-weight: bold'> <center> Total </center> </th> </tr><tr> <td> firefox </td><td> <center> 1 </center> </td><td> <center> 0 </center> </td><td style='font-weight: bold'> <center> 1 </center> </td> </tr><tr> <td> chrome 61.0.3163.79</td><td> <center> 0 </center> </td><td> <center> 1 </center> </td><td style='font-weight: bold'> <center> 1 </center> </td> </tr><tr style='font-weight: bold'> <td> Total </td> <td> <center> 1 </center> </td> <td> <center> 1 </center> </td> <td> <center> 2 </center> </td> </tr> </table> </div>
+		         <div class='col-md-6' > <div id='barChart' style='height:200px; width:550px;'></div> </div>
+            </div>
+            </br>
+            <div class='container'>
+	        <table id='example' class='table table-striped table-bordered table-condensed default table-hover'>
+                 <thead>
+		            <tr>
+			            <th>SNO.</th>
+			            <th>Test Case ID</th>
+			            <th>Browser</th>
+			            <th>Iteration</th>
+			            <th>Duration</th>                        
+			            <th>Result</th>
+		            </tr>
+                </thead>
+			    <tbody>
+                    <tr><td>1</td><td><a href='TC001 Firefox 1.html' target='_blank'>TC001</a></td><td>firefox </td><td>1</td><td>00:02:03.0228000</td><td><span class='glyphicon glyphicon-ok green'></span></td></tr><tr><td>2</td><td><a href='TC001 Chrome 1.html' target='_blank'>TC001</a></td><td>chrome 61.0.3163.79</td><td>1</td><td>00:00:44.6970000</td><td><span class='glyphicon glyphicon-remove red'></span></td></tr>
+                </tbody>
+             </table>
+            </div>
+            <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+            <script  type='text/javascript'>
+
+                google.load('visualization', '1', {packages:['corechart']});
+                var BarChartData = [ ['Browser', 'Passed',  { role: 'style' }, 'Failed',  { role: 'style' } ],['firefox ',1, 'green',0, 'red' ],['chrome 61.0.3163.79',0, 'green',1, 'red' ] ];
+                google.setOnLoadCallback(drawVisualization);
+                function drawVisualization() {
+                    var data = google.visualization.arrayToDataTable(BarChartData);
+
+		            var options = {
+                      title: 'Browser Wise Status',
+                      legend: {position: 'top', alignment:'center'},
+                      vAxis: {title: 'Count'},
+		              hAxis: {title: 'Browser'},
+                      seriesType: 'bars',
+                      colors: ['green', 'red']
+                    };
+       
+                    var chart = new google.visualization.ComboChart(document.getElementById('barChart'));
+                    chart.draw(data, options);
+                  }
+                
+             </script>
+            </body>
+            </html>

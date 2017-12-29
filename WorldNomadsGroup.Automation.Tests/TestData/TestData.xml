@@ -1,0 +1,74 @@
+<TestData>
+
+  <PartnerPurchase_And_Cancel_HappyPath>  
+  <TestCaseID>1</TestCaseID>
+  <TestCaseName>PartnerPurchase_And_Cancel_HappyPath</TestCaseName>
+  <EmailAddress>varaprasad.bonam@worldnomadsgroup.com</EmailAddress>
+  <Password>Bonam1234</Password>
+  <WhereCountry>Japan</WhereCountry>
+  <Duration>100</Duration>
+  <Age>29</Age>
+  <TripLimit>$5,000</TripLimit>
+  <TravellerFirstName>Automatedtest</TravellerFirstName>
+  <TravellerLastName>Automatedtest</TravellerLastName>
+  <DOBDay>1</DOBDay>
+  <DOBMonth>Jan</DOBMonth>
+  <DOBYear>1998</DOBYear>
+  <TravellerEmailAddress>test@test.com.au</TravellerEmailAddress>
+  <HomePhone>12345678</HomePhone>
+  <ExistingMedicalConditions>No</ExistingMedicalConditions>
+  <NoOfDependants>0</NoOfDependants>
+  <StreetAddress1>123 Test St</StreetAddress1>
+  <StreetAddress2>Test St</StreetAddress2>
+  <Suburb>Testville</Suburb>
+  <State>New South Wales</State>
+  <PostalCode>2222</PostalCode>
+  <CreditCardNumber>m3SgnsMWGF18ZyY1GOFTIYvT1nkP6e1k</CreditCardNumber>
+  <ExpiryMonth>5WEFWg3891YjaxQCeb7hcA==</ExpiryMonth>
+  <ExpiryYear>70doa2rswdg=</ExpiryYear>
+  <SecurityCode>k4DhdaC6wXg=</SecurityCode>
+  <CancellationReasonPolicy>General Note</CancellationReasonPolicy>
+  <CancellationReason>test cancel</CancellationReason>
+     
+</PartnerPurchase_And_Cancel_HappyPath>
+
+  <PartnerPurchase_And_Cancel_Validations>
+  <TestCaseID>1</TestCaseID>
+  <TestCaseName>PartnerPurchase_And_Cancel_Validations</TestCaseName>
+  <EmailAddress>varaprasad.bonam@worldnomadsgroup.com</EmailAddress>
+  <InvalidEmailAddress>test email</InvalidEmailAddress>
+  <Password>Bonam1234</Password>
+  <InvalidPassword>test pwd</InvalidPassword>
+  <WhereCountry>Japan</WhereCountry>
+  <SanctionedCountry>Somalia</SanctionedCountry>
+  <Duration>5</Duration>
+  <Age>29</Age>
+  <MaxAge>111</MaxAge>
+  <UpdateAge>30</UpdateAge>
+  <TripLimit>$5,000</TripLimit>
+  <TravellerFirstName>Automatedtest</TravellerFirstName>
+  <TravellerLastName>Automatedtest</TravellerLastName>
+  <DOBDay>1</DOBDay>
+  <DOBMonth>Jan</DOBMonth>
+  <DOBYear>1998</DOBYear>
+  <TravellerEmailAddress>test@test.com.au</TravellerEmailAddress>
+  <HomePhone>12345678</HomePhone>
+  <InvalidPhone>invalid phone</InvalidPhone>
+  <ExistingMedicalConditions>No</ExistingMedicalConditions>
+  <NoOfDependants>0</NoOfDependants>
+  <StreetAddress1>123 Test St</StreetAddress1>
+  <StreetAddress2>Test St</StreetAddress2>
+  <Suburb>Testville</Suburb>
+  <State>New South Wales</State>
+  <PostalCode>2222</PostalCode>
+  <CreditCardNumber>m3SgnsMWGF18ZyY1GOFTIYvT1nkP6e1k</CreditCardNumber>
+  <ExpiryMonth>5WEFWg3891YjaxQCeb7hcA==</ExpiryMonth>
+  <ExpiryYear>70doa2rswdg=</ExpiryYear>
+  <SecurityCode>k4DhdaC6wXg=</SecurityCode>
+  <CancellationReasonPolicy>General Note</CancellationReasonPolicy>
+  <CancellationReason>test cancel</CancellationReason>
+  <PolicyWithoutCancelOption>SSAUS17000941</PolicyWithoutCancelOption>
+
+  </PartnerPurchase_And_Cancel_Validations>
+  
+</TestData>

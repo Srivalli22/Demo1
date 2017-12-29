@@ -1,0 +1,3 @@
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.SuiteRunner\bin\Debug\BudgetDirect.Automation.SuiteRunner.exe.config
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.SuiteRunner\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.SuiteRunner\obj\Debug\BudgetDirect.Automation.SuiteRunner.csproj.ResolveComReference.cache

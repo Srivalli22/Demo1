@@ -1,0 +1,294 @@
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Repository.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Repository.pdb
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\appium-dotnet-driver.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\bcmail-jdk15-1.44.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\bcprov-jdk15-1.44.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\Castle.Core.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\commons-logging.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\fontbox-1.8.2.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\icu4j-3.8.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.Runtime.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\jempbox-1.8.2.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\junit.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\pdfbox-1.8.2.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\TestStack.White.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\WebDriver.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\WebDriver.Support.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Accelerators.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\stdole.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Accelerators.pdb
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\TestStack.White.pdb
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\WebDriver.pdb
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\bin\Debug\WebDriver.Support.pdb
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.csprojResolveAssemblyReference.cache
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.dll
+C:\Users\E003932\Desktop\BudgetDirect.Automation\BudgetDirect.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.pdb
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Repository.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Repository.pdb
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\appium-dotnet-driver.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\bcmail-jdk15-1.44.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\bcprov-jdk15-1.44.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\Castle.Core.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\commons-logging.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\fontbox-1.8.2.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\icu4j-3.8.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.Runtime.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.Runtime.JNI.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\jempbox-1.8.2.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\junit.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\pdfbox-1.8.2.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\TestStack.White.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.Support.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Accelerators.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\stdole.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Accelerators.pdb
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\TestStack.White.pdb
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.pdb
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.Support.pdb
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.csprojResolveAssemblyReference.cache
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.dll
+C:\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.pdb
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Repository.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Repository.pdb
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\appium-dotnet-driver.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\bcmail-jdk15-1.44.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\bcprov-jdk15-1.44.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\Castle.Core.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\commons-logging.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\fontbox-1.8.2.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\icu4j-3.8.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.Runtime.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\jempbox-1.8.2.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\junit.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\pdfbox-1.8.2.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\TestStack.White.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.Support.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Accelerators.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\stdole.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Accelerators.pdb
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\TestStack.White.pdb
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.pdb
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.Support.pdb
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.csprojResolveAssemblyReference.cache
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.dll
+C:\Users\e001207\Documents\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.pdb
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Repository.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Repository.pdb
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\appium-dotnet-driver.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\bcmail-jdk15-1.44.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\bcprov-jdk15-1.44.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\Castle.Core.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\commons-logging.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\fontbox-1.8.2.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\icu4j-3.8.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.Runtime.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\jempbox-1.8.2.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\junit.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\pdfbox-1.8.2.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\TestStack.White.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.Support.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Accelerators.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\stdole.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Accelerators.pdb
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\TestStack.White.pdb
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.pdb
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.Support.pdb
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.csprojResolveAssemblyReference.cache
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.dll
+C:\Users\e001207\Desktop\WNG\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.pdb
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Repository.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Repository.pdb
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\appium-dotnet-driver.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\bcmail-jdk15-1.44.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\bcprov-jdk15-1.44.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\Castle.Core.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\commons-logging.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\fontbox-1.8.2.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\icu4j-3.8.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.Runtime.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\jempbox-1.8.2.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\junit.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\pdfbox-1.8.2.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\TestStack.White.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.Support.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Accelerators.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\stdole.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Accelerators.pdb
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\TestStack.White.pdb
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.pdb
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.Support.pdb
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.csprojResolveAssemblyReference.cache
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.dll
+C:\Users\e001207\Source\Workspaces\WNG Custom Apps\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.pdb
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Repository.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Repository.pdb
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\appium-dotnet-driver.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\bcmail-jdk15-1.44.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\bcprov-jdk15-1.44.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\Castle.Core.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\commons-logging.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\fontbox-1.8.2.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\icu4j-3.8.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.Runtime.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\jempbox-1.8.2.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\junit.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\pdfbox-1.8.2.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\TestStack.White.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.Support.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Accelerators.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\stdole.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Accelerators.pdb
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\TestStack.White.pdb
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.pdb
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.Support.pdb
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.csprojResolveAssemblyReference.cache
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.dll
+C:\Users\e001207\Documents\WNG Automation\New folder\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.pdb
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Repository.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Repository.pdb
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\appium-dotnet-driver.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\bcmail-jdk15-1.44.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\bcprov-jdk15-1.44.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\Castle.Core.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\commons-logging.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\fontbox-1.8.2.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\icu4j-3.8.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.Runtime.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\jempbox-1.8.2.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\junit.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\pdfbox-1.8.2.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\TestStack.White.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.Support.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Accelerators.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\stdole.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WorldNomadsGroup.Automation.Accelerators.pdb
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\TestStack.White.pdb
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.pdb
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\bin\Debug\WebDriver.Support.pdb
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.csprojResolveAssemblyReference.cache
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.dll
+C:\Users\E002834\WorldNomadsGroup.Automation\WorldNomadsGroup.Automation.Repository\obj\Debug\WorldNomadsGroup.Automation.Repository.pdb

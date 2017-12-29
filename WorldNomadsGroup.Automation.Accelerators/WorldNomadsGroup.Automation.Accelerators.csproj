@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{D1D28AF3-9E85-4A32-8E8F-2CAF152F5A05}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <RootNamespace>WorldNomadsGroup.Automation.Accelerators</RootNamespace>
+    <AssemblyName>WorldNomadsGroup.Automation.Accelerators</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="appium-dotnet-driver">
+      <HintPath>..\lib\appium-dotnet-driver.dll</HintPath>
+    </Reference>
+    <Reference Include="bcmail-jdk15-1.44">
+      <HintPath>..\lib\bcmail-jdk15-1.44.dll</HintPath>
+    </Reference>
+    <Reference Include="bcprov-jdk15-1.44">
+      <HintPath>..\lib\bcprov-jdk15-1.44.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Core, Version=2.5.1.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="commons-logging">
+      <HintPath>..\lib\commons-logging.dll</HintPath>
+    </Reference>
+    <Reference Include="fontbox-1.8.2">
+      <HintPath>..\lib\fontbox-1.8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="icu4j-3.8">
+      <HintPath>..\lib\icu4j-3.8.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="junit">
+      <HintPath>..\lib\junit.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel">
+      <HintPath>..\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.XmlTransform">
+      <HintPath>..\lib\Microsoft.Web.XmlTransform.dll</HintPath>
+    </Reference>
+    <Reference Include="pdfbox-1.8.2">
+      <HintPath>..\lib\pdfbox-1.8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="TestStack.White">
+      <HintPath>..\lib\TestStack.White.dll</HintPath>
+    </Reference>
+    <Reference Include="WebDriver">
+      <HintPath>..\lib\WebDriver.dll</HintPath>
+    </Reference>
+    <Reference Include="WebDriver.Support">
+      <HintPath>..\lib\WebDriver.Support.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseClasses\ActionEngine.cs" />
+    <Compile Include="BaseClasses\BasePage.cs" />
+    <Compile Include="BaseClasses\BaseTest.cs" />
+    <Compile Include="Interfaces\BasePageInterface.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportingClasses\Act.cs" />
+    <Compile Include="ReportingClasses\Browser.cs" />
+    <Compile Include="ReportingClasses\Chapter.cs" />
+    <Compile Include="ReportingClasses\Engine.cs" />
+    <Compile Include="ReportingClasses\Iteration.cs" />
+    <Compile Include="ReportingClasses\Step.cs" />
+    <Compile Include="ReportingClasses\Summary.cs" />
+    <Compile Include="ReportingClasses\TestCase.cs" />
+    <Compile Include="Utilities\Arguments.cs" />
+    <Compile Include="Utilities\CustomException.cs" />
+    <Compile Include="Utilities\ExcelReader.cs" />
+    <Compile Include="Utilities\FloatingPointExtensions.cs" />
+    <Compile Include="Utilities\ScriptAttribute.cs" />
+    <Compile Include="Utilities\Supportmethods.cs" />
+    <Compile Include="Utilities\Util.cs" />
+    <Compile Include="Utilities\XMLReader.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,2 @@
+TestCaseID,Run,Browser,TestCaseTitle,RequirementFeature
+TC001,Yes,Chrome,TC_01_WorldNomadPartnerPurchase,This script verfies quote creation process with data for the various products
